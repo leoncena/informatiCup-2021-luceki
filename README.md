@@ -1,6 +1,8 @@
 ![](https://raw.githubusercontent.com/maxluetkemeyer/informatiCup-2021-luceki/main/monitoring/img/logo.png)
 # informatiCuo 2021 Team luceki - Handbuch
+In diesem Projekt handelt über die Teilnahme am Studierendenwettbewerb der Gesellschaft für Informatik. Das Endergebnis entstand aus einer Projektarbeit in einer Gruppe aus Kommilitonen.
 
+This project is about the participation in the student competition of the Gesellschaft für Informatik (German Informatics Society). The final solution is the result of a project work in a group of fellow students.
 ## Inhaltsverzeichnis
 [docker verwenden](#docker-verwenden)
 * [Vorgefertigtes Image verwenden](#vorgefertigtes-image-verwenden)
